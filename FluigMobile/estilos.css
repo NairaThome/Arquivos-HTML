@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*
+ * style.css
+ */
+
+
+
+body {
+    margin: 0;
+	  padding: 0;
+		background-color:#FFFFFF;
+    height: 350px;
+    text-align: center;
+    background: #FFFFFF;
+    font: 95% arial, hevetica, sans-serif;
+}
+
+.row1 {
+  text-align: center;
+
+}
